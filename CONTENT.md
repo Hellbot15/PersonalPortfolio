@@ -1,13 +1,3 @@
-
----
-
-# 5. `CONTENT.md`
-
-This is where **your actual information will eventually go**.
-
-For now:
-
-```md
 # Portfolio Content
 
 This file contains the factual personal content used by the portfolio.
@@ -26,23 +16,33 @@ Do not fabricate it.
 
 ## Name
 
-[NEEDS INPUT]
+Abdul Ghani
 
 ## Professional Title
 
-[NEEDS INPUT]
+AI & Data Science Student
 
 ## Location
 
-[NEEDS INPUT]
+Mumbai, India
 
 ## Short Introduction
 
-[NEEDS INPUT]
+AI & Data Science Student building software across AI/ML and full-stack development.
+
+I learn by building practical systems—from AI-powered cybersecurity platforms to web applications—while developing deeper skills in machine learning and software engineering.
 
 ## Long Biography
 
-[NEEDS INPUT]
+I am a B.Tech Artificial Intelligence & Data Science student at Rizvi College of Engineering, currently focused on building practical software while strengthening my foundations in AI and machine learning.
+
+I learn primarily through hands-on development. My projects span AI-powered cybersecurity, backend systems, full-stack applications, security tooling, and modern web interfaces.
+
+Through these projects, I have explored technologies ranging from Python and FastAPI to React, Spring Boot, databases, APIs, AI services, browser extensions, and mobile development.
+
+Currently, I am developing deeper skills in AI/ML while continuing to strengthen my software engineering, backend development, and system design foundations.
+
+My approach is simple: learn something, build with it, understand what breaks, and improve.
 
 ---
 
@@ -50,17 +50,21 @@ Do not fabricate it.
 
 ## Primary Statement
 
-[NEEDS INPUT]
+Building software across AI/ML and full-stack development.
 
 ## Supporting Statement
 
-[NEEDS INPUT]
+AI & Data Science student learning by building practical systems across AI-powered applications, cybersecurity, backend engineering, and modern web development.
 
 ## Primary CTA
 
-[NEEDS INPUT]
+Explore Projects
 
 ## Secondary CTA
+
+View GitHub
+
+## Availability
 
 [NEEDS INPUT]
 
@@ -68,196 +72,293 @@ Do not fabricate it.
 
 # 3. About
 
-[NEEDS INPUT]
+I am an AI & Data Science student who prefers learning through building rather than only studying theory.
+
+My work currently sits across three areas:
+
+- Artificial Intelligence & Machine Learning
+- Software & Full-Stack Development
+- Cybersecurity & Security Applications
+
+I have worked on projects ranging from multi-platform AI cybersecurity systems to vulnerability-management interfaces and campus-focused applications.
+
+I am currently deepening my understanding of AI/ML while improving my ability to design, build, integrate, and debug complete software systems.
+
+I am particularly interested in:
+
+- AI/ML applications
+- AI-powered software
+- Backend engineering
+- Cybersecurity
+- Full-stack development
+- APIs and system integration
+- AI agents
+- Practical problem solving
 
 ---
 
 # 4. Skills
 
-## Strong
+## 01 — Programming & Core Development
 
-- [NEEDS INPUT]
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
 
-## Working Knowledge
+## 02 — Frontend & UI
 
-- [NEEDS INPUT]
+- React
+- Vite
+- React Native
+- Expo
+- Responsive Web Development
+- Three.js
+- Cytoscape.js
 
-## Learning
+## 03 — Backend & APIs
 
-- [NEEDS INPUT]
+- FastAPI
+- Spring Boot
+- REST APIs
+- Spring Data JPA
+- Maven
 
-## Experimenting
+## 04 — AI / ML
 
-- [NEEDS INPUT]
+- AI/ML Fundamentals
+- LLM Applications
+- AI API Integration
+- Google Gemini
+- Groq
+- AI-assisted development
+- AI Agents
+- Machine Learning — Currently Learning
+
+## 05 — Databases & Storage
+
+- PostgreSQL
+- Supabase
+- Redis
+- H2 Database
+
+## 06 — Security & Intelligence
+
+- Cybersecurity Applications
+- Vulnerability Management
+- Threat Intelligence
+- Phishing Detection Concepts
+- VirusTotal Integration
+- Google Safe Browsing
+- Have I Been Pwned
+
+## 07 — Platforms & Development Tools
+
+- Git
+- GitHub
+- Docker
+- Vercel
+- Chrome Extensions
+- Browser APIs
+- Expo / EAS
+
+## 08 — Currently Learning
+
+- Machine Learning
+- AI/ML fundamentals
+- Data Science
+- Backend engineering
+- System design
+- Advanced AI applications
+- Agentic development
 
 ---
 
 # 5. Projects
 
-## Project 1
+# Project 1 — Nexora AI
 
-### Name
+## Name
 
-[NEEDS INPUT]
+Nexora AI
 
-### Description
+## Project Type
 
-[NEEDS INPUT]
+Team Project · NeoFuture 2026 · S.E. Mini Project
 
-### Problem
+## Description
 
-[NEEDS INPUT]
+Nexora AI is an AI-powered cybersecurity learning and threat-detection platform combining security education, threat analysis, and gamified learning across web, mobile, and browser environments.
 
-### Solution
+The system brings together multiple client applications, backend microservices, AI processing, threat-intelligence sources, and data services into a unified cybersecurity platform.
 
-[NEEDS INPUT]
+## Problem
 
-### My Role
+Cybersecurity education and threat detection are often separated across different tools.
 
-[NEEDS INPUT]
+Users may need one platform to learn security concepts, another to analyze suspicious content, and another to monitor threats.
 
-### Technologies
+Nexora explores a unified approach where security learning, threat analysis, and defensive guidance can exist within the same ecosystem.
 
-- [NEEDS INPUT]
+## Solution
 
-### Features
+Nexora combines:
 
-- [NEEDS INPUT]
+- Cybersecurity education
+- Scenario-based phishing training
+- Gamified learning
+- Threat analysis
+- AI-generated security content
+- Threat-intelligence integrations
+- Browser-based security workflows
+- Mobile security analysis
+- Security dashboards
 
-### Architecture
+## My Role
 
-[NEEDS INPUT]
+Developed the FastAPI backend microservices and API layer for the platform.
 
-### Challenges
+Worked across the web, mobile, and Chrome extension components alongside the backend.
 
-[NEEDS INPUT]
+Integrated external threat-intelligence feeds and AI/TTS services.
 
-### Result
+## Contributions
 
-[NEEDS INPUT]
+- FastAPI backend development
+- Backend API design
+- Microservice development
+- API integration
+- Threat-intelligence integration
+- AI service integration
+- TTS integration
+- Cross-platform system integration
+- Backend/frontend communication
+- System architecture work
 
-### GitHub
+## Technologies
 
-[NEEDS INPUT]
-
-### Live Demo
-
-[NEEDS INPUT]
-
----
-
-# 6. Experience
-
-## Experience 1
-
-### Organization
-
-[NEEDS INPUT]
-
-### Role
-
-[NEEDS INPUT]
-
-### Dates
-
-[NEEDS INPUT]
-
-### Description
-
-[NEEDS INPUT]
-
-### Achievements
-
-- [NEEDS INPUT]
-
----
-
-# 7. Education
-
-## Institution
-
-[NEEDS INPUT]
-
-## Degree / Program
-
-[NEEDS INPUT]
-
-## Dates
-
-[NEEDS INPUT]
-
-## Achievements
-
-- [NEEDS INPUT]
-
----
-
-# 8. Hackathons
-
-## Hackathon 1
-
-### Name
-
-[NEEDS INPUT]
-
-### Position / Result
-
-[NEEDS INPUT]
-
-### Project
-
-[NEEDS INPUT]
-
-### Technologies
-
-[NEEDS INPUT]
-
----
-
-# 9. Certifications
-
-- [NEEDS INPUT]
-
----
-
-# 10. Achievements
-
-- [NEEDS INPUT]
-
----
-
-# 11. Currently Building
-
-[NEEDS INPUT]
-
----
-
-# 12. Currently Learning
-
-[NEEDS INPUT]
-
----
-
-# 13. Interests
-
-[NEEDS INPUT]
-
----
-
-# 14. Social Links
-
-## GitHub
-
-[NEEDS INPUT]
-
-## LinkedIn
-
-[NEEDS INPUT]
-
-## Email
-
-[NEEDS INPUT]
-
-## Other
-
-[NEEDS INPUT]
+- Python
+- FastAPI
+- React
+- Vite
+- React Native
+- Expo
+- Chrome Extensions
+- JavaScript
+- Supabase
+- PostgreSQL
+- Redis
+- Google Gemini
+- Groq
+- ElevenLabs
+- VirusTotal
+- Google Safe Browsing
+- Have I Been Pwned
+
+## Client Applications
+
+### Web Dashboard
+
+- Security learning dashboard
+- XP and progression
+- Streak tracking
+- Badges
+- Lessons
+- Scenario training
+- Leaderboards
+- Security profile
+
+### Mobile Application
+
+- Secure analysis reports
+- Suspicious-message analysis
+- Threat classification
+- Security recommendations
+- Defensive guidance
+
+### Browser Extension
+
+- Browser-level security workflows
+- Threat analysis
+- Security interaction layer
+
+## Core Features
+
+### Scenario Training
+
+Users classify messages as phishing or legitimate and receive:
+
+- Correct/incorrect feedback
+- XP
+- Explanations
+- Red flags
+- Scenario progression
+- AI-generated scenarios
+
+### Gamified Learning
+
+- XP
+- Levels
+- Streaks
+- Badges
+- Lessons
+- Leaderboards
+- Learning progression
+
+### Security Analysis
+
+- Threat classification
+- Integrity/match scoring
+- Message analysis
+- Defensive recommendations
+- Suspicious-link analysis
+
+### Threat Detection
+
+The system combines multiple detection and intelligence approaches including:
+
+- Phish-IQ
+- Rule-based heuristics
+- VirusTotal
+- Google Safe Browsing
+
+## Architecture
+
+```text
+                    NEXORA AI
+                        |
+        +---------------+---------------+
+        |               |               |
+        v               v               v
+   Web Dashboard    Mobile App     Browser Extension
+        |               |               |
+        +---------------+---------------+
+                        |
+                        v
+                Backend / Microservices
+                 +-------------+
+                 |             |
+                 v             v
+            Edu Service    Scanner Service
+                 |             |
+                 +------+------+
+                        |
+                        v
+                Processing / AI
+          +-------------+-------------+
+          |             |             |
+       Groq LLM     Phish-IQ     Detection Engine
+                                      |
+                              +-------+-------+
+                              |               |
+                         VirusTotal     Safe Browsing
+
+                        |
+                        v
+                  Data / Storage
+                  +------------+
+                  |            |
+                Redis       Supabase
+                              |
+                         PostgreSQL
